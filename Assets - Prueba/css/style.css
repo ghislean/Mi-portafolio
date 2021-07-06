@@ -1,0 +1,95 @@
+.navbar{
+    background-color:#660066 ;
+}
+
+.navbar-brand{
+    font-size: 40px;
+    font-family:"Oswald";
+    font-weight:bold ;
+}
+/* hero sec */
+.hero-section {
+  text-align: center;
+  background-image: url('../img/ghislean.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  padding: 15rem 3.125rem;
+
+}
+
+.centrar{
+  text-align: center;
+}
+
+
+.Yo{
+  font-family: "Oswald";
+  font-size: 60px;
+  padding-top: 22rem;
+}
+
+.Ghislean{
+  font-family: "Oswald", bold;
+  font-size: 65pt;
+  padding-top: 2rem;
+}
+
+.image{
+   width: fit-content;
+   height: 300px;;
+
+}
+
+
+#Trabajos{
+  font-family:italic;
+}
+
+#footer{
+   text-align: center;
+   font-family: Times;
+   background-color: #660066;
+ 
+}
+#footer.iconos{
+  padding-right: 5rem;
+}
+#Contacto{
+  font-family: Impact;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#redes{
+    background-color:#660066;
+    text-align:center;
+  }
+  .icono-1, .icono-2, .icono-3, .icono-4{
+    color: #ffffff;
+    text-align:center;
+    margin: 10px;
+  
+  }
+  .mi-nombre{
+    font-family:"Oswald";
+    color: #ffffff;
+    font-size: 40px;
+  }
+  .btn-secondary{
+    background-color: #009C95;
+    color: #ffffff;
+  border-color: #509F8C;
+ }
